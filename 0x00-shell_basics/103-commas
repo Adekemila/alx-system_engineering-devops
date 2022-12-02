@@ -1,2 +1,2 @@
 #!/bin/bash
-ls / *. -X . .. [O] -n /n
+ls-mpa
