@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "To get a full list of hidden files" > ls_cwd_content
+echo ls -la > ls_cwd_content
